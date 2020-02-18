@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D827A152-4035-FAA9-497E-88A1D2EB93E5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "InterviewTasks",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "http://www.ue4code.com"
+		}
+	]
+}
