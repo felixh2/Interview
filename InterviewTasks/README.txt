@@ -6,8 +6,6 @@ Hello !
 3. You *can not* ignore the files that are supplied to you.
 4. Code with errors will not be checked, so double check it before sending back.
 
-GOOD LUCK !
-
 
 Welcome to our planet, foreigner !
 
